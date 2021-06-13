@@ -32,6 +32,7 @@ input {
 .btn {
     padding: 12px ;
     text-align: center;
+    -webkit-appearance: none; 
 
     &--blue {
         background-color: #2F65F8;
