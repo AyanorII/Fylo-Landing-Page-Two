@@ -29,6 +29,12 @@ input {
     border: 1px solid grey
 }
 
+input[type="submit"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
 .btn {
     padding: 12px ;
     text-align: center;
